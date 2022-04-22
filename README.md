@@ -1,2 +1,1 @@
-# juswa
-Bootstrap Midterm
+TinDog Starting Files
